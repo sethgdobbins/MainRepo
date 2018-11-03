@@ -18,6 +18,7 @@ namespace WebApplication1.Controllers
             //Test comment
             //One more test
             ViewBag.Message = "Your application description page.";
+            //Adding a comment locally to test merging of a Pull and a Push
 
             return View();
         }
