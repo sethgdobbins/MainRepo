@@ -17,6 +17,7 @@ namespace WebApplication1.Controllers
         {
             //Test comment
             //One more test
+            //Adding comment directly on the GitHub server for testing.
             ViewBag.Message = "Your application description page.";
 
             return View();
