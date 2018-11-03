@@ -17,7 +17,7 @@ namespace WebApplication1.Controllers
         {
             //Test comment
             //One more test
-            //Adding comment directly on the GitHub server for testing.  Added locally.
+            //Adding comment directly on the GitHub server for testing.  Added from GitHub.
             ViewBag.Message = "Your application description page.";
             //Adding a comment locally to test merging of a Pull and a Push
 
